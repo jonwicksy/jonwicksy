@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jonwicksy and I'm not a developer.
+👋 Hi, I’m @jonwicksy and I'm not a developer.
 
 
 
